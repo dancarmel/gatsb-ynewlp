@@ -1,0 +1,1 @@
+# Soft Themez - Best Software Landing Page ( Askbootstrap ) in Gatsby + Netlify CMS

@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap');
+
+// global style
+
+html 
+  scroll-behavior: smooth;
+body
+  font-family: 'Poppins', sans-serif !important
+  font-size: 13px;
+  letter-spacing: 1px;
+  background-color: #fff;
+p 
+  color: #716c80;
+  font-size: 13px;
+  line-height: 27px;
+#gatsby-focus-wrapper
+  a 
+    text-decoration: none !important;
+    color: #3f345f !important;;
+    transition: all 0.3s ease 0s;
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 
+  color: #58468c;
+h6 
+  font-size: 18px !important;
+.btn 
+  border-radius: 50px !important;
+  font-size: 14px !important;
+  padding: 13px 30px !important;
+.badge 
+  border-radius: 100px;
+  font-size: 12px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 1px;
+  line-height: normal;
+  padding: 4px 14px;
+  text-transform: uppercase;
+.badge-primary
+  background-color: rgba(92, 93, 232, 0.1) !important;
+  color: #5c5de8 !important;
+.badge-danger 
+  background-color: rgba(250, 100, 35, 0.1);
+  color: #fa6423;
+.badge-success 
+  background-color: rgba(0, 216, 200, 0.09);
+  color: #00d8c8;
+.section-title 
+  padding-bottom: 80px;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-image: url(https://askbootstrap.com/preview/osahan-soft-themez-pro/img/path-2-copy-2.png);
+  background-origin: padding-box;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 189px auto;
+  padding-bottom: 80px;
+  .badge 
+    margin: 0 0 8px;
+.section-title-line 
+    background: rgba(0, 0, 0, 0) url(https://askbootstrap.com/preview/osahan-soft-themez-pro/img/line.png) repeat scroll 0 0;
+    display: inline-block;
+    height: 5px;
+    width: 53px;
+#nc-root
+    h2 
+      font-size: 14px !important;
+section
+  padding: 150px 0;
+
+
+// Header style
+
+header 
+  position: relative;
+  z-index: 999 !important;
+  .osahan-center-nav 
+      display: inline-block;
+      flex-direction: inherit !important;
+      left: 0;
+      position: absolute;
+      right: 0;
+      text-align: center;
+      top: 21px;
+      a 
+        display: inline-block;
+  strong 
+    color: #fff
+  h1
+    font-size: 48px
+  img
+    width : 100%
+.particle 
+    position: absolute
+    width: 100%
+    height: 100%
+    top: 0px
+    left: 0px
+    overflow: hidden
+    z-index: -2;
+.bg-primary::after 
+   background-attachment: scroll
+   background-clip: border-box
+   background-image: url("../img/bg-primary.png")
+   background-origin: padding-box
+   background-position: 0 0
+   background-repeat: no-repeat
+   background-size: 100% auto
+   bottom: 0
+   content: ""
+   position: absolute
+   top: 0
+   width: 100%
+   z-index: -1
+   opacity: 0.2
+.navbar-nav-right 
+  z-index: 999 !important;
+  .menu-btn 
+      background: #fff none repeat scroll 0 0;
+      border-radius: 43px;
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+      color: #333;
+      margin: 0 0 0 9px;
+      padding: 9px 18px !important;
+      z-index: 999;
+      &:hover
+        background-color: #3f345f !important;
+        color: #ffffff !important;
+footer::after 
+  position: relative !important;
+.bg-primary, .btn-primary, .btn-outline-primary:hover 
+    border-color: transparent !important
+    background: #230080
+    background: -moz-linear-gradient(-45deg, #230080 0%, #a614a3 70%, #e31eb4 100%)
+    background: -webkit-linear-gradient(-45deg, #230080 0%,#a614a3 70%,#e31eb4 100%)
+    background: linear-gradient(135deg, #230080 0%,#a614a3 70%,#e31eb4 100%)
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#230080', endColorstr='#e31eb4',GradientType=1 )
+    z-index: 0
+.banner-block 
+     padding-top: 100px
+.button-toolbar 
+    display: block !important
+    padding: 28px 0px 15px !important
+    .btn 
+      text-transform: uppercase;
+      margin: 0px 6px;
+
+
+
+.effectiv 
+    bottom: -1px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+.effectiv img 
+     max-width: 100%
+     min-width: 100%
+     width: 100%
+.navbar .navbar-menu
+  box-shadow:none !important
+.content .taglist
+  list-style: none
+  margin-bottom: 0
+  margin-left: 0
+  margin-right: 1.5rem
+  margin-top: 1.5rem
+  display: flex
+  flex-wrap: wrap
+  justify-content: left
+  align-items: center
+  li
+    padding: 0 2rem 1rem 0
+    margin-bottom: 1.5rem
+    margin-top: 0
+
+// Helper Classes
+
+.full-width-image-container
+  width: 100vw
+  height: 400px
+  position: relative
+  left: 50%
+  right: 50%
+  margin: 2em -50vw
+  background-size: cover
+  background-position: bottom
+  display: flex
+  justify-content: center
+  align-items: center
+.full-width-image
+    width: 100vw
+    height: 400px
+    background-size: cover
+    background-position: bottom
+    display: flex
+    justify-content: center
+    align-items: center
+.margin-top-0
+  margin-top: 0 !important
+.navbar-item .icon
+  color: #D64000
+// Override for use of svg's from https://simpleicons.org/
+.icon svg
+  width: 1.5rem
+  height: 1.5rem
+  fill: currentColor
+.navbar-brand .navbar-item.logo
+  padding: 0 1rem
+footer.footer
+  padding: 3rem 0rem 0rem
+  background-color: transparent
+.menu-label
+  font-size: 1em !important
+  text-align: left
+.menu-list
+  list-style: none !important
+  text-align: left
+.social
+  padding: 2em
+.social a
+    padding: .5em .5em .3em .5em
+    border-radius: 1em
+    background-color: #D64000
+    margin: .5em
+    width: 1em
+    height: 1em
+    vertical-align: middle
+    display: inline
+
+// blog roll
+
+.blog-list-item.is-featured
+  background-color: #d6400033;
+.blog-list-item header
+  display: flex;
+  margin-bottom: 1em;
+.blog-list-item .featured-thumbnail
+  flex-basis: 35%;
+  margin: 0 1.5em 0 0;
+a 
+  text-decoration: none !important;
+  color: #3f345f;
+  transition: all 0.3s ease 0s;
+a:hover, a:focus 
+  text-decoration: none !important;
+  color: #ff8a73;
+.content-pad
+  position: relative;
+  top: -50px;
+  padding: 0px 85px;
+  .content-blog 
+    background-color: #fff;
+    border-radius: 7px;
+    padding: 20px 30px;
+    box-shadow: 0 6px 12px rgba(98, 104, 109, 0.3);
+    min-height: 400px;
+.tagpage
+  .taglist 
+    list-style: none;
+    padding-left: 0px;
+    li 
+      border-bottom: 1px dashed #ddd;
+      padding: 15px 0px;
+      h2 
+        font-size: 15px !important;
+        padding: 0px;
+        margin: 0px;
+
+
+
+
+
+
+
+  
+

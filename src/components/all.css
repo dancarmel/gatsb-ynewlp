@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
+.sticky-inner-wrapper {
+	padding: 38px 48px;
+    transition: all 0.4s ease-in-out 0s;
+}
+.sticky-inner-wrapper .nav-link {
+    font-size: 13px;
+    color: #fff !important;
+    padding: 10px !important;
+    position: relative;
+    letter-spacing: 0;
+}
+.sticky-inner-wrapper .navbar-brand {
+    color: #fff !important;
+    z-index: 999;
+}
+.sticky-outer-wrapper, .sticky-inner-wrapper {
+    background-color: transparent;
+}
+.active .sticky-inner-wrapper{
+	border-bottom: 2px solid rgba(255, 255, 255, 0.4);
+    padding: 0px 0px;
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 2px 2px 5px rgba(91, 94, 222, 0.16);
+}
+.active .sticky-inner-wrapper .nav-link, .active .sticky-inner-wrapper .navbar-brand {
+    color: #3f345f !important;
+}
+.active .menu-btn{
+	background-color: #3f345f !important;
+    color: #ffffff !important;
+}
+
+
+@media (max-width: 768px) {
+    .sticky-inner-wrapper {
+       padding: 0px !important; 
+    }
+    header h1 {
+        font-size: 30px;
+    }
+    header .banner-block {
+        padding-top: 40px;
+    }
+    .lead {
+        font-size: 1rem;
+        font-weight: 300;
+    }
+    section {
+        padding: 55px 0;
+    }
+    .sign-up-form .input-group input {
+        width: 100%;
+    }
+    .sign-up-form .input-group {
+        display: block;
+        width: 100% !important;
+    }
+    .sign-up-form button {
+        margin: 15px auto;
+    }
+    .testimonials-item {
+        margin-bottom: 20px;
+    }
+    .pricing-item {
+        margin-bottom: 15px;
+    }
+    .screens .item {
+        margin: 0px !important;
+    }
+    .team-item {
+        margin-bottom: 15px;
+    }
+    .blog-block-wrraper {
+        position: unset !important;
+        padding: 15px 0px !important;
+    }
+    .content-pad {
+        position: unset !important;
+        padding: 15px 0px !important;
+    }
+    .navlinks {
+        margin: auto !important;
+    }
+    .nav-wrapper {
+        height: auto !important;
+    }
+    .blog-card {
+        margin-bottom: 15px;
+    }
+    .blogid img {
+        float: left;
+        margin-right: 14px;
+    }
+    .blogid .navbar-brand {
+        display: inline-block;
+        white-space: normal !important;
+    }
+    .blogid h2 {
+        font-size: 25px;
+    }
+    header .osahan-center-nav {
+        display: block;
+        position: unset;
+        right: 0;
+        text-align: center;
+        top: 21px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+}
+
+

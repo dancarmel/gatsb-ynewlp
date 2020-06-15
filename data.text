@@ -1,0 +1,450 @@
+php artisan config:cache
+
+https://blog.pusher.com/web-application-laravel-vue-part-4/
+
+https://github.com/serversideup/roastandbrew
+
+https://www.cloudways.com/blog/laravel-vue-single-page-app/
+
+https://github.com/Hujjat/laravStart/blob/master/resources/assets/js/app.js
+
+https://github.com/IsoftTech
+https://riptutorial.com/ebook/vue-js
+
+https://gatsby-starter-mate.netlify.com/
+
+https://stackoverflow.com/questions/45384172/best-practice-for-storing-auth-tokens-in-vuejs
+
+https://vegibit.com/how-to-use-vuejs-with-laravel-blade/
+
+CFPAT-ngyD66h3r1o4524PysYW4CLjxsTJ0wImFWrIiqICzbQ
+
+
+https://gatsby-starter-fashion-portfolio.netlify.com/
+
+https://www.gatsbyjs.org/starters/GatsbyStorefront/gatsby-starter-storefront-shopify/
+
+https://react-icons.netlify.com/#/
+
+Hello Guys,
+
+ setTimeout(() => {
+      window.location.reload();
+    }, 0.5)
+
+https://www.pluralsight.com/guides/how-to-pass-props-object-from-child-component-to-parent-component
+
+http://prntscr.com/r77knm
+
+className={`sidbarlinks ${this.state.scrollTop  > "200" ? "sidbarfix" : ""} ${this.state.scrollTop  > "9000" ? "sidbarfixfold" : ""}`}
+
+https://www.pluralsight.com/guides/applying-classes-conditionally-react
+
+https://affiliateworldconferences.com/europe/
+
+https://henrique.codes/speed-up-gatsby-site/
+
+https://hackersandslackers.com/optimize-your-gatsbyjs-site-with-netlify/
+
+
+Netlify and Contentful account detail (same for both):
+
+Email : amarjitk.tws@gmail.com
+Pass : AmarJITk@$$567
+
+https://harjotgrewal725441.invisionapp.com/public/share/G7WU450JK#/screens/474727658/comments
+
+https://harjotgrewal725441.invisionapp.com/public/share/G7WU450JK#/screens/474727657/comments
+
+
+** https://stackoverflow.com/questions/51329297/how-to-check-in-a-vue-component-if-a-user-is-authenticated-in-laravel
+
+* https://medium.com/front-end-weekly/persisting-user-authentication-with-vuex-in-vue-b1514d5d3278
+
+https://laracasts.com/discuss/channels/vue/vue-authentication-checking-auth
+
+
+https://stackoverflow.com/questions/52703364/how-to-get-current-authenticated-user-id-using-vuejs-and-laravel
+
+https://medium.com/@sadnub/vuejs-and-laravel-auth-part-2-5-d7c9d0263226
+
+https://codebriefly.com/laravel-jwt-authentication-vue-ja-spa-part-1/
+
+https://michaelnthiessen.com/26-time-saving-tips
+
+https://medium.com/@sunilsandhu
+
+
+f48d4b7c012a31d87ed205eb4dd7ddc6c51750c8
+tekkiwebsolutions
+https://tekkiwebsolutions.bitrix24.com
+
+dalvir4u@gmail.com
+
+dass1234
+
+
+Gursewak Bitrix Detail :
+gurpreet.tws@gmail.com
+9;DkpId"Jwq(
+
+admin@12345
+
+User : gursewaksingh-jaw
+Pass : gursewaksingh-jaw@123
+
+lZoUvvMNUIwSmkKFBm
+
+Password#47/1$
+
+--------------
+
+
+Git details
+sarbjitgrewal@tekkiwebsolutions.com
+
+Username - tekkiwebsolutions
+New Password: TWs$$2019$$@@
+
+
+f48d4b7c012a31d87ed205eb4dd7ddc6c51750c8
+
+
+desijat420
+
+
+
+composer create-project laravel/laravel --prefer-dist .
+
+npm install --save vuex vue-router validate.js
+
+npm i
+
+php artisan config:clear
+
+php artisan serve
+
+
+for db - 
+
+php artisan make:migration create_customers_table --create=customers
+
+jwt - 
+https://blog.pusher.com/laravel-jwt/
+http://www.expertphp.in/article/api-authentication-using-jwt-in-laravel-5-4-tutorial-with-example
+
+https://michaelnthiessen.com/solve-unknown-custom-element-vue
+
+userful links for command line -
+
+https://dev.to/dipeshwagle/best-command-line-utilities-557d
+
+composer vs yarn
+
+https://www.reddit.com/r/PHP/comments/5df86u/yarn_vs_composer/
+
+
+
+
+useful links lara vue :
+
+https://laravel-news.com/building-vue-spa-laravel-part-4
+
+https://laracasts.com/series/laravel-vue-and-spas/episodes/1
+
+https://www.contentful.com/sign-up/
+
+https://medium.com/@weehong/laravel-5-7-vue-vue-router-spa-5e07fd591981
+
+https://envato.com/blog/css3-typography-code-snippets/
+
+https://github.com/fabe/gatsby-universal
+
+-----------------------------------------------------------------------------------------------------------https://itnext.io/content-management-with-gatsby-netlify-and-contentful-70f03de41602
+
+https://dev.to/thebabscraig/content-management-with-gatsby-netlify-and-contentful-3kbg
+https://github.com/fabe/gatsby-universal
+
+https://www.guidingtech.com
+
+https://www.toptal.com/front-end/gatsby-js-node-js-static-site-generator-pt-2
+
+https://using-remark.gatsbyjs.org/7d0bfa9165274906ecbad3cb7f2f32cd/awesome_tiger.svg
+
+
+https://www.savethestudent.org/make-money/get-rewarded-for-testing-products.html
+https://survey.developereconomics.com/name/de18
+
+src={
+                  typeof(post.node.frontmatter.projectimage) !== 'undefined' ? 
+                  post.node.frontmatter.projectimage !== null ? 
+                  post.node.frontmatter.projectimage.childImageSharp.original.src : null
+                }
+
+                npm run app
+
+npm run webpack
+
+reprojrcs/ peckish-tekki/ peckish
+
+dalbeer.tws@tekkiwebsolutons.com
+pas-  dass1234
+
+uaer icon edit profile
+
+https://medium.com/@iamhrayr/how-do-you-deal-with-multiple-layouts-in-react-js-56ba8ad99c91
+
+
+
+Admin :-
+
+link:- http://175.176.184.243:8036/Projects/Laravel/AdjunctRoom/admin/login
+email:- adjunctroom@mailinator.com
+password:- adjunctroom@123
+
+Teacher:-
+
+link:- http://175.176.184.243:8036/Projects/Laravel/AdjunctRoom/login
+username:- ridhi
+password:- 123
+
+School:-
+
+link:- http://175.176.184.243:8036/Projects/Laravel/AdjunctRoom/login
+username:- Room25x5 / pu@mailinator.com
+password:- Roompass#99x
+
+
+The only username and password through which website can be accessed are:-
+User Name:- ADJ25x
+Password:- PassAdj#25
+
+https://hackernoon.com/from-wordpress-to-jamstack-how-to-make-your-website-10x-faster-e363abc46e2d
+
+https://dev.to/simonholdorf/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-4fhn
+
+https://tylermcginnis.com/courses/react/
+
+
+-/ menu bar up top more add bar logo - add quick skip hire  -- call us now add 
+-/ remove extra content from banner
+
+office hours
+dilevry at grate 
+
+
+fil out chnge to get a qourt
+book a skip cgnge to book now
+
+
+about us remove 
+
+7 milews map
+
+
+- We encourage recycling and safer waste management as we believe in maintaining the environment.
+- Fully licensed waste carrier.
+- Household, office, builders and industrial professional service.
+- Skips available for domestic and commercial use.
+- Same day, one hour delivery and collection.
+- Skips available from 4 - 16 yard.
+- 20 - 40 yard container.
+
+
+http://logistics.chimpgroup.com/
+
+http://templates.theemon.com/?theme=transport-html
+
+https://bootsnipp.com/snippets/NjR9z
+
+https://bootsnipp.com/snippets/n42d8
+
+https://bootsnipp.com/snippets/8qAqo
+
+https://bootsnipp.com/snippets/1mXgr
+
+https://www.onlinewebfonts.com/download/457055c70a9c98aa64002f05d6652edc
+
+https://github.com/fisshy/react-scroll
+
+
+LInk25
+
+LB2016X
+
+FTP
+
+Login for cPanel of domain: linkibag.net
+Urename is link25test1
+Passwod is JHweuirhu5347&^
+
+function checkCookie() {
+		var username = document.cookie
+		var n = username.includes("alredy_user");
+		if (n !== true) {
+			$(window).load(function(){        
+				$('#linkibag-cookies').modal('show');
+			}); 
+			document.cookie = "username=alredy_user";
+		}
+	}
+
+    https://editor.method.ac/
+
+https://ghost.org/blog/great-blog-post-ideas/
+
+https://ghost.org/blog/free-ghost-themes/
+
+-- https://www.w3schools.com/php/func_string_nl2br.asp
+
+--
+INSERT INTO `users` (`id`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES ('1', 'Gursewak Singh', 'iamsewak@gmail.com', 'Hello', '8b1a9953c4611296a827abf8c47804d7', '2019-08-16 02:07:04', '2019-08-16 02:07:04');
+
+-- https://www.robinwieruch.de/react-pass-props-to-component
+
+--https://mysiteauditor.com/blog/how-to-stop-a-staging-site-from-being-listed-in-google
+
+-- https://scotch.io/tutorials/building-a-custom-sitemap-for-your-gatsbyjs-site
+
+-- https://markshust.com/2019/04/27/creating-canonical-urls-specific-pages-gatsby/
+
+-- https://mysiteauditor.com/blog/how-to-stop-a-staging-site-from-being-listed-in-google/
+
+-- https://community.netlify.com/t/avoid-seo-duplicated-content-between-master-url-and-actual-production-url/850
+
+-- https://dev.to/michael/prevent-google-from-indexing-your-site
+
+-- https://www.netlifycms.org/docs/start-with-a-template/
+
+-- https://github.com/gatsbyjs/gatsby/issues/10415
+
+-- https://jenniferwadella.com/blog/all-the-dumb-mistakes-i-made-building-my-first-gatsby-site
+
+http://justfreethemes.com/demo/?theme=WP%20Commerce
+
+http://justfreethemes.com/demo/?theme=Nozama%20Lite
+
+https://demo.athemes.com/themes/?theme=TheShop
+http://justfreethemes.com/demo/
+
+http://fontsforweb.com/font/show?id=10146
+
+https://www.gatsbyjs.org/docs/quick-start
+
+https://www.gatsbyjs.org/packages/gatsby-source-wordpress/
+
+https://www.youtube.com/watch?v=etii9yp1J6s
+
+ http://175.176.184.243:8036/Projects/Laravel/artist_dashboard/artist/login   
+
+Email: secondCustomer@mailinator.com
+Password: artist@2019
+
+Email: michaels.tws@gmail.com
+Password : admin@2019
+
+ https://scoutandcelsta.wpengine.com/ 
+   http://jsonviewer.stack.hu/   
+   https://gitlab.com/scoutandcellar/tower-frontend/issues   
+nancyarya.tws@gmail.com
+tws@12345
+
+https://github.com/jsdecena
+
+https://jsdecena.me/
+
+ionic g page login
+
+app.module.ts
+  import { LoginPageModule } from '../pages/login/login.module';
+  in imports: LoginPageModule ,
+
+app.components.ts
+  import { LoginPage } from '../pages/login/login';
+  
+login
+forgetpass
+dashboard
+bookings
+bookingdetail
+reviews
+stylists
+addstylist
+editstylist
+shopdetail
+editprofile
+services
+addservice
+editservice
+gallery
+addgallery
+
+$ git checkout develop
+$ git status
+$ git add -A
+$ git status
+$ git commit -m "Taxtual Changes"
+$ git push origin develop
+
+$ git checkout staging
+$ git pull origin staging
+$ git merge develop
+$ git commit -m "merge"
+$ git push origin staging
+
+https://www.quora.com/How-do-you-calculate-a-percentage-discount
+
+https://www.dotphi.com/industry/mlm-website-design-and-development/
+
+https://stackshare.io/github/alternatives
+
+Url : skinsultra.com
+
+User : skinsultra
+
+Pass : SUP@ss2019
+
+
+Host: 103.21.59.27
+
+User: layunit
+
+Pass: Markinfotech1@#
+
+Host : 101.53.136.33
+Port : 1509
+User : chpbernet
+Password : tech@#ewsx1
+
+
+npm install -g ionic@3.9.2
+
+- Edit environmental variables for account
+
+- AppData/Roaming
+
+- npm path 
+
+- ctrl + c
+
+
+http://www.themesquality.com/templates/merit/24-fitness.html
+
+http://aaryaweb.info/html/stylexpo/demo/
+
+https://colorlib.com/preview/theme/coinbuzz/
+
+https://colorlib.com/preview/#taxi
+
+https://colorlib.com/preview/#breed2
+
+http://sitetemplate.demo.ithemeslab.com/menzsaloon/
+
+http://themescare.com/demos/jobguru/index.html
+--------
+MLM - 
+http://aemmultitrade.com/Home/Index
+
+https://pixinvent.com/demo/vuesax-vuejs-admin-dashboard-template/landing/
+
+https://www.egrovesys.com/elite-salon-application/
